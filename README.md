@@ -3,30 +3,37 @@
 Professor of Chemistry and Biochemistry, UCLA  
 Research software, computational physics, spin dynamics, quantum materials, and scientific computing.
 
-## Public Code
+## Public Repositories
 
 The GitHub profile overview only shows a small subset of repositories.
 
 **Browse all public repositories here:**  
 [github.com/lsbouchard?tab=repositories](https://github.com/lsbouchard?tab=repositories)
 
-## Featured Repositories
+<!-- AUTO-REPOS:START -->
+Currently indexed public repositories: **6**
 
-### [SuperExchange](https://github.com/lsbouchard/SuperExchange)
+### Research And Code
 
-Research code for symmetry-guided superexchange tensor calculations in rare-earth-doped silicon spin-qubit systems.
+- [BlochDDFGalerkin](https://github.com/lsbouchard/BlochDDFGalerkin) - Python code for Bloch-equation DDF/Galerkin simulations. `Python`.
+- [SuperExchange](https://github.com/lsbouchard/SuperExchange) - Research code for symmetry-guided superexchange tensor calculations in rare-earth-doped silicon spin-qubit systems. `Jupyter Notebook`.
+- [GeoWMSNN](https://github.com/lsbouchard/GeoWMSNN) - Research code for geomorphic world-modeling and scientific neural network workflows. `Python`.
+- [LoopDressedLLB](https://github.com/lsbouchard/LoopDressedLLB) - Notebook-based research code for loop-dressed Landau-Lifshitz-Bloch modeling. `Jupyter Notebook`.
 
-### [GeoWMSNN](https://github.com/lsbouchard/GeoWMSNN)
+### Forks
 
-Research code for geomorphic world-modeling and scientific neural network workflows.
+- [GradientPathologiesPINNs](https://github.com/lsbouchard/GradientPathologiesPINNs) - Fork of the Predictive Intelligence Lab repository on gradient pathologies in physics-informed neural networks. `Python`. Fork.
 
-### [LoopDressedLLB](https://github.com/lsbouchard/LoopDressedLLB)
+### Profile
 
-Notebook-based research code for loop-dressed Landau-Lifshitz-Bloch modeling.
+- [lsbouchard](https://github.com/lsbouchard/lsbouchard) - GitHub profile README and public repository landing page. `Mixed / not specified`.
+<!-- AUTO-REPOS:END -->
 
-### [GradientPathologiesPINNs](https://github.com/lsbouchard/GradientPathologiesPINNs)
+## How This Page Updates
 
-Fork of the Predictive Intelligence Lab repository on gradient pathologies in physics-informed neural networks.
+This profile README is generated from the current public GitHub repository list. A GitHub Actions workflow refreshes it on a schedule and can also be run manually.
+
+GitHub profile READMEs are static Markdown files, so they cannot execute code live each time someone views the page. The scheduled workflow is the closest reliable GitHub-native equivalent.
 
 ## Notes
 
