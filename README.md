@@ -26,7 +26,7 @@ Currently indexed public repositories: **6**
 
 ### Profile
 
-- [lsbouchard](https://github.com/lsbouchard/lsbouchard) - GitHub profile README and public repository landing page. `Mixed / not specified`.
+- [lsbouchard](https://github.com/lsbouchard/lsbouchard) - GitHub profile README and public repository landing page. `Python`.
 <!-- AUTO-REPOS:END -->
 
 ## How This Page Updates
