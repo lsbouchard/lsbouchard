@@ -11,13 +11,12 @@ The GitHub profile overview only shows a small subset of repositories.
 [github.com/lsbouchard?tab=repositories](https://github.com/lsbouchard?tab=repositories)
 
 <!-- AUTO-REPOS:START -->
-Currently indexed public repositories: **6**
+Currently indexed public repositories: **5**
 
 ### Research And Code
 
 - [BlochDDFGalerkin](https://github.com/lsbouchard/BlochDDFGalerkin) - Python code for Bloch-equation DDF/Galerkin simulations. `Python`.
 - [SuperExchange](https://github.com/lsbouchard/SuperExchange) - Research code for symmetry-guided superexchange tensor calculations in rare-earth-doped silicon spin-qubit systems. `Jupyter Notebook`.
-- [GeoWMSNN](https://github.com/lsbouchard/GeoWMSNN) - Research code for geomorphic world-modeling and scientific neural network workflows. `Python`.
 - [LoopDressedLLB](https://github.com/lsbouchard/LoopDressedLLB) - Notebook-based research code for loop-dressed Landau-Lifshitz-Bloch modeling. `Jupyter Notebook`.
 
 ### Forks
