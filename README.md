@@ -11,10 +11,11 @@ The GitHub profile overview only shows a small subset of repositories.
 [github.com/lsbouchard?tab=repositories](https://github.com/lsbouchard?tab=repositories)
 
 <!-- AUTO-REPOS:START -->
-Currently indexed public repositories: **6**
+Currently indexed public repositories: **7**
 
 ### Research And Code
 
+- [CISST1](https://github.com/lsbouchard/CISST1) - Public research/code repository. `Python`.
 - [CISShomogenization](https://github.com/lsbouchard/CISShomogenization) - Public research/code repository. `C`.
 - [BlochDDFGalerkin](https://github.com/lsbouchard/BlochDDFGalerkin) - Python code for Bloch-equation DDF/Galerkin simulations. `Python`.
 - [SuperExchange](https://github.com/lsbouchard/SuperExchange) - Research code for symmetry-guided superexchange tensor calculations in rare-earth-doped silicon spin-qubit systems. `Jupyter Notebook`.
