@@ -11,10 +11,11 @@ The GitHub profile overview only shows a small subset of repositories.
 [github.com/lsbouchard?tab=repositories](https://github.com/lsbouchard?tab=repositories)
 
 <!-- AUTO-REPOS:START -->
-Currently indexed public repositories: **7**
+Currently indexed public repositories: **8**
 
 ### Research And Code
 
+- [CAVCOEX](https://github.com/lsbouchard/CAVCOEX) - Public research/code repository. `Python`.
 - [CISST1](https://github.com/lsbouchard/CISST1) - Public research/code repository. `Python`.
 - [CISShomogenization](https://github.com/lsbouchard/CISShomogenization) - Public research/code repository. `C`.
 - [BlochDDFGalerkin](https://github.com/lsbouchard/BlochDDFGalerkin) - Python code for Bloch-equation DDF/Galerkin simulations. `Python`.
