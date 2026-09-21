@@ -11,10 +11,11 @@ The GitHub profile overview only shows a small subset of repositories.
 [github.com/lsbouchard?tab=repositories](https://github.com/lsbouchard?tab=repositories)
 
 <!-- AUTO-REPOS:START -->
-Currently indexed public repositories: **10**
+Currently indexed public repositories: **11**
 
 ### Research And Code
 
+- [PECscattering](https://github.com/lsbouchard/PECscattering) - Public research/code repository. `Python`.
 - [CISST1](https://github.com/lsbouchard/CISST1) - Public research/code repository. `Python`.
 - [O2](https://github.com/lsbouchard/O2) - Public research/code repository. `Python`.
 - [SRGRAPE](https://github.com/lsbouchard/SRGRAPE) - Public research/code repository. `Python`.
