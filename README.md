@@ -15,8 +15,8 @@ Currently indexed public repositories: **11**
 
 ### Research And Code
 
-- [PECscattering](https://github.com/lsbouchard/PECscattering) - Public research/code repository. `Python`.
 - [CISST1](https://github.com/lsbouchard/CISST1) - Public research/code repository. `Python`.
+- [PECscattering](https://github.com/lsbouchard/PECscattering) - Public research/code repository. `Python`.
 - [O2](https://github.com/lsbouchard/O2) - Public research/code repository. `Python`.
 - [SRGRAPE](https://github.com/lsbouchard/SRGRAPE) - Public research/code repository. `Python`.
 - [CAVCOEX](https://github.com/lsbouchard/CAVCOEX) - Public research/code repository. `Python`.
