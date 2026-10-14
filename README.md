@@ -15,11 +15,11 @@ Currently indexed public repositories: **11**
 
 ### Research And Code
 
+- [CAVCOEX](https://github.com/lsbouchard/CAVCOEX) - Public research/code repository. `Python`.
 - [CISST1](https://github.com/lsbouchard/CISST1) - Public research/code repository. `Python`.
 - [PECscattering](https://github.com/lsbouchard/PECscattering) - Public research/code repository. `Python`.
 - [O2](https://github.com/lsbouchard/O2) - Public research/code repository. `Python`.
 - [SRGRAPE](https://github.com/lsbouchard/SRGRAPE) - Public research/code repository. `Python`.
-- [CAVCOEX](https://github.com/lsbouchard/CAVCOEX) - Public research/code repository. `Python`.
 - [CISShomogenization](https://github.com/lsbouchard/CISShomogenization) - Public research/code repository. `C`.
 - [BlochDDFGalerkin](https://github.com/lsbouchard/BlochDDFGalerkin) - Python code for Bloch-equation DDF/Galerkin simulations. `Python`.
 - [SuperExchange](https://github.com/lsbouchard/SuperExchange) - Research code for symmetry-guided superexchange tensor calculations in rare-earth-doped silicon spin-qubit systems. `Jupyter Notebook`.
