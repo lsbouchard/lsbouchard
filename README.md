@@ -11,10 +11,11 @@ The GitHub profile overview only shows a small subset of repositories.
 [github.com/lsbouchard?tab=repositories](https://github.com/lsbouchard?tab=repositories)
 
 <!-- AUTO-REPOS:START -->
-Currently indexed public repositories: **12**
+Currently indexed public repositories: **13**
 
 ### Research And Code
 
+- [PwaveLabquakeForecasting](https://github.com/lsbouchard/PwaveLabquakeForecasting) - Public research/code repository. `C++`.
 - [DDevol](https://github.com/lsbouchard/DDevol) - Public research/code repository. `C`.
 - [CISST1](https://github.com/lsbouchard/CISST1) - Public research/code repository. `Python`.
 - [CAVCOEX](https://github.com/lsbouchard/CAVCOEX) - Public research/code repository. `Python`.
